@@ -1,6 +1,14 @@
-# anotherCollaborativeTexteditor
+# anotherCollaborativeTexteditor. aka aCT
 
-aCT
+
+
+Purpose:
+- Develop a text editor that allows groups to develop a text collaboratively, with decisions on the text evolutions are  made in a collaborative manner and tracable
+- The aim is to allow an auto organisation of groups around some fundamental texts like a constitution or a charter, or a set of rule.
+
+
+
+
 
 
 Features
@@ -13,3 +21,5 @@ Features
 - voting process to implement changes in the released version ( fluid democraty based ? ) 
 - automated publication of last released version ( look at manubot )
 - automated publication of authors of the published text ( look at manubot ) 
+- no need to understand git / blockchain... or even know they exist.
+- 
