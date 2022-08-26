@@ -3,7 +3,7 @@
 
 
 Purpose:
-- Develop a text editor that allows groups to develop a text collaboratively, with decisions on the text evolutions are  made in a collaborative manner and tracable
+- Develop a text editor that allows groups to develop a text collaboratively, with decisions on the text evolutions are  made in a democratic manner and tracable
 - The aim is to allow an auto organisation of groups around some fundamental texts like a constitution or a charter, or a set of rule.
 
 
