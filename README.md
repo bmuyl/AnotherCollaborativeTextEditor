@@ -1,4 +1,4 @@
-# anotherCollaborativeTexteditor. aka aCT
+# Another Collaborative Text Editor aka ACTE
 
 
 
