@@ -10,3 +10,4 @@ Embeds
 - git based text modifications management
 - voting process to implement changes in the released version ( fluid democraty based ? ) 
 - automated publication of last released version
+- automated publication of authors of the published text
