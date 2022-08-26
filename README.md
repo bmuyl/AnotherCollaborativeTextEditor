@@ -3,8 +3,10 @@
 aCT
 
 
-Embeds
+Features
 - assisted "new document creation" in git platform or, even better, on a blockchain
+- create user login (and authenticate identity ? ) 
+- search a text to be involved in, join the viewer. / editors group
 - assisted md text editor and rendering
 - management of rights 
 - git based text modifications management
